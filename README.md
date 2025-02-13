@@ -1,1 +1,1 @@
-Book API [demoqa](https://demoqa.com/swagger/#/BookStore/BookStoreV1BooksGet) performance testing using JMeter
+Book Store [demoqa](https://demoqa.com/swagger/#/BookStore/BookStoreV1BooksGet) performance testing using JMeter
